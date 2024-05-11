@@ -21,6 +21,8 @@ This proyect takes database information simulating clothing products and send it
 
 📏 Springboot 3.0
 
+📏 PostgreSQL
+
 📏 Kafka
 
 
